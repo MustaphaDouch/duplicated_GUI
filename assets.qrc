@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="">
+    <file>assets/loading.gif</file>
+    <file>assets/duplicate.png</file>
+  </qresource>
+</RCC>

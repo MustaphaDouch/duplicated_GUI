@@ -1,0 +1,267 @@
+--------------------
+DUPLICATED FILES:		
+--------------------
+
+pyparsing.py (size : 453 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/pyparsing.py	: 226 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/pyparsing.py	: 226 kb 
+
+typing_extensions.py (size : 170 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/typing_extensions.py	: 85 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pip/_vendor/typing_extensions.py	: 85 kb 
+
+specifiers.py (size : 58 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/packaging/specifiers.py	: 29 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/packaging/specifiers.py	: 29 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pip/_vendor/packaging/specifiers.py	: 29 kb 
+
+tags.py (size : 57 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/packaging/tags.py	: 15 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/packaging/tags.py	: 15 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pip/_vendor/packaging/tags.py	: 15 kb 
+
+_manylinux.py (size : 22 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/packaging/_manylinux.py	: 11 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/packaging/_manylinux.py	: 11 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pip/_vendor/packaging/_manylinux.py	: 11 kb 
+
+zipp.py (size : 16 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/zipp.py	: 8 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/zipp.py	: 8 kb 
+
+_adapters.py (size : 8 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/importlib_resources/_adapters.py	: 4 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/_adapters.py	: 4 kb 
+
+_musllinux.py (size : 8 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/packaging/_musllinux.py	: 4 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/packaging/_musllinux.py	: 4 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pip/_vendor/packaging/_musllinux.py	: 4 kb 
+
+readers.py (size : 6 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/importlib_resources/readers.py	: 3 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/readers.py	: 3 kb 
+
+_legacy.py (size : 6 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/importlib_resources/_legacy.py	: 3 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/_legacy.py	: 3 kb 
+
+simple.py (size : 5 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/importlib_resources/simple.py	: 2 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/simple.py	: 2 kb 
+
+_common.py (size : 5 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/importlib_resources/_common.py	: 2 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/_common.py	: 2 kb 
+
+fieldset.html (size : 3 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/layout/fieldset.html	: 315 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap/layout/fieldset.html	: 315 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/uni_form/layout/fieldset.html	: 315 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/fieldset.html	: 315 byte 
+
+_structures.py (size : 2 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/packaging/_structures.py	: 1 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/packaging/_structures.py	: 1 kb 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pip/_vendor/packaging/_structures.py	: 1 kb 
+
+whole_uni_formset.html (size : 1 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/whole_uni_formset.html	: 849 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/whole_uni_formset.html	: 849 byte 
+
+modal.html (size : 1 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/layout/modal.html	: 684 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/modal.html	: 684 byte 
+
+betterform.html (size : 1 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/betterform.html	: 668 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/betterform.html	: 668 byte 
+
+__about__.py (size : 1 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pkg_resources/_vendor/packaging/__about__.py	: 661 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools/_vendor/packaging/__about__.py	: 661 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pip/_vendor/packaging/__about__.py	: 661 byte 
+
+clearable_file_input.html (size : 1 kb):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/clearable_file_input.html	: 511 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/clearable_file_input.html	: 511 byte 
+
+whole_uni_form.html (size : 932 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/whole_uni_form.html	: 466 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/whole_uni_form.html	: 466 byte 
+
+baseinput.html (size : 856 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/layout/baseinput.html	: 428 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap/layout/baseinput.html	: 428 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/baseinput.html	: 428 byte 
+
+help_text_and_errors.html (size : 764 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/layout/help_text_and_errors.html	: 382 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/help_text_and_errors.html	: 382 byte 
+
+uni_form.html (size : 618 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/uni_form.html	: 309 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/uni_form.html	: 309 byte 
+
+display_form.html (size : 528 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/display_form.html	: 264 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/display_form.html	: 264 byte 
+
+alert.html (size : 522 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/layout/alert.html	: 261 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap/layout/alert.html	: 261 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/alert.html	: 261 byte 
+
+column.html (size : 504 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/uni_form/layout/column.html	: 167 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/column.html	: 167 byte 
+
+field_errors_block.html (size : 460 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap/layout/field_errors_block.html	: 224 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/field_errors_block.html	: 224 byte 
+
+uni_formset.html (size : 460 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/uni_formset.html	: 230 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/uni_formset.html	: 230 byte 
+
+input_option.html (size : 438 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/input_option.html	: 219 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/input_option.html	: 219 byte 
+
+url.html (size : 436 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/url.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/url.html	: 48 byte 
+
+buttonholder.html (size : 424 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/layout/buttonholder.html	: 212 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap/layout/buttonholder.html	: 212 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/uni_form/layout/buttonholder.html	: 212 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/buttonholder.html	: 212 byte 
+
+tab-link.html (size : 406 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap/layout/tab-link.html	: 186 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/tab-link.html	: 186 byte 
+
+div.html (size : 366 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/layout/div.html	: 183 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap/layout/div.html	: 183 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/uni_form/layout/div.html	: 183 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/div.html	: 183 byte 
+
+row.html (size : 330 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap/layout/row.html	: 160 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/row.html	: 160 byte 
+
+textarea.html (size : 290 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/textarea.html	: 145 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/textarea.html	: 145 byte 
+
+WHEEL (size : 184 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools-62.1.0.dist-info/WHEEL	: 92 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django_fontawesome_5-1.0.18.dist-info/WHEEL	: 92 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pip-22.0.4.dist-info/WHEEL	: 92 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django_crispy_forms-1.14.0.dist-info/WHEEL	: 92 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/asgiref-3.5.0.dist-info/WHEEL	: 92 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/Django-4.0.4.dist-info/WHEEL	: 92 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/sqlparse-0.4.2.dist-info/WHEEL	: 92 byte 
+
+default.html (size : 154 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/default.html	: 40 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/default.html	: 40 byte 
+
+button.html (size : 144 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap4/layout/button.html	: 72 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap/layout/button.html	: 72 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/crispy_forms/templates/bootstrap3/layout/button.html	: 72 byte 
+
+checkbox_select.html (size : 114 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/checkbox_select.html	: 57 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/checkbox_select.html	: 57 byte 
+
+radio.html (size : 114 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/contrib/admin/templates/admin/widgets/radio.html	: 57 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/radio.html	: 57 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/radio.html	: 57 byte 
+
+radio_option.html (size : 110 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/radio_option.html	: 55 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/radio_option.html	: 55 byte 
+
+checkbox_option.html (size : 110 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/checkbox_option.html	: 55 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/checkbox_option.html	: 55 byte 
+
+split_array.html (size : 108 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/contrib/postgres/templates/postgres/widgets/split_array.html	: 54 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/contrib/postgres/jinja2/postgres/widgets/split_array.html	: 54 byte 
+
+select_date.html (size : 108 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/select_date.html	: 54 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/select_date.html	: 54 byte 
+
+multiple_hidden.html (size : 108 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/multiple_hidden.html	: 54 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/multiple_hidden.html	: 54 byte 
+
+splitdatetime.html (size : 108 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/splitdatetime.html	: 54 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/splitdatetime.html	: 54 byte 
+
+splithiddendatetime.html (size : 108 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/splithiddendatetime.html	: 54 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/splithiddendatetime.html	: 54 byte 
+
+text.txt (size : 104 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/errors/dict/text.txt	: 113 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/errors/dict/text.txt	: 113 byte 
+
+file.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/file.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/file.html	: 48 byte 
+
+number.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/number.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/number.html	: 48 byte 
+
+password.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/password.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/password.html	: 48 byte 
+
+datetime.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/datetime.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/datetime.html	: 48 byte 
+
+time.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/time.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/time.html	: 48 byte 
+
+hidden.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/hidden.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/hidden.html	: 48 byte 
+
+checkbox.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/checkbox.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/checkbox.html	: 48 byte 
+
+date.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/date.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/date.html	: 48 byte 
+
+text.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/text.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/text.html	: 48 byte 
+
+email.html (size : 96 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/templates/django/forms/widgets/email.html	: 48 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django/forms/jinja2/django/forms/widgets/email.html	: 48 byte 
+
+INSTALLER (size : 8 byte):
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/setuptools-62.1.0.dist-info/INSTALLER	: 4 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/Pillow-9.1.0.dist-info/INSTALLER	: 4 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django_fontawesome_5-1.0.18.dist-info/INSTALLER	: 4 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/pip-22.0.4.dist-info/INSTALLER	: 4 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/django_crispy_forms-1.14.0.dist-info/INSTALLER	: 4 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/wheel-0.37.1.dist-info/INSTALLER	: 4 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/asgiref-3.5.0.dist-info/INSTALLER	: 4 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/Django-4.0.4.dist-info/INSTALLER	: 4 byte 
+    /home/mdg/Desktop/django/bismillah01/djangoenv/lib/python3.10/site-packages/sqlparse-0.4.2.dist-info/INSTALLER	: 4 byte 
