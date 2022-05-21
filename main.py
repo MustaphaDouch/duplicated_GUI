@@ -46,16 +46,17 @@ class MainWindow(QMainWindow):
         
         #ComboBox sort
         self.sortCombo = self.findChild(QComboBox, 'sort_combo')
-        self.clicked = 'No'
+        # self.clicked = 'No'
         # if self.clicked == 'Yes':
-        self.sortCombo.currentIndexChanged.connect(self.scan_btn if self.clicked == 'Yes' else self.sortBy)
+        # self.sortCombo.currentIndexChanged.connect(self.scan_btn if self.clicked == 'Yes' else self.sortBy)
+        self.sortCombo.currentIndexChanged.connect(self.scan_btn  )
         
       
         
     ##################### START FUNCTIONS ###################
-    def sort(self, clicked):
-        if clicked == 'Yes':
-            return self.scan_btn()
+    # def sort(self, clicked):
+    #     if clicked == 'Yes':
+    #         return self.scan_btn
         #     print(1)
         # print(0)
         
