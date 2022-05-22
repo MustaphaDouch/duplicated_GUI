@@ -79,7 +79,7 @@ class MainWindow(QMainWindow):
                     self.tableWidget.setItem(row, 2, QTableWidgetItem(a[0]))
                     self.tableWidget.setItem(row, 3, QTableWidgetItem(self.megaCalc(a[1])))
                     row += 1
-        
+        self.label.setText('Done !')
             
 
     #SortBy ComboBox
@@ -149,7 +149,7 @@ class MainWindow(QMainWindow):
             try:                
                 self.duplicate = self.retreiveFiles(self.path+'/')
                 self.choices(self.sortBy())
-                self.label.setText('Done !')
+                
             except Exception as e:
                 self.error(e)
                 
